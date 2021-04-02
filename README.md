@@ -195,7 +195,7 @@ Some third-party included files may have different licenses - please check their
 4. Mining on GPUs, FPGAs and other high-efficiency hardware is allowed, but using only the `EXTREME` mining difficulty.<br/>
 5. Any users using miners on difficulty not suited for their hardware (see the <a href="https://github.com/revoxhere/duino-coin/tree/useful-tools#socket-api">difficulty list</a>) will be automatically throttled and/or blocked.<br/>
 6. Any users spotted using inappropriate and/or overpowered hardware will be banned manually or automatically from the network without prior notice.<br/>
-7. Banning involves blocking the user from accessing his coins along with the removal of an account.<br/>
+7. Banning involves blocking the user from accessing their coins along with the removal of an account.<br/>
 8. Only coins earned legally are eligible for the exchange.<br/>
 9. Users spotted using a VPN (or similar) with malicious intents (e.g. bypassing limits) may be banned without prior notice.<br/>
 10. Mulitple accounts used to bypass limits may be banned without prior notice.<br/>
